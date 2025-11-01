@@ -1,0 +1,41 @@
+# Build Generated Files
+/build/
+/app/build/
+.gradle/
+/local.properties
+/captures/
+*.log
+
+# Android Studio
+*.iml
+.localHistory/
+.DS_Store
+.idea/
+*.swp
+*~
+.cache/
+.studio/
+
+# Keystore (绝对不能上传！)
+**/*.keystore
+**/*.jks
+config.properties
+
+# Environment variables
+.env
+*.env
+
+# Debug APKs (可选)
+/app/release/
+/app/debug/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs_vista.db
+Desktop.ini
+$RECYCLE.BIN/

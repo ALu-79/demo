@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="soft_pink">#FFD1DC</color>
+    <color name="pale_cyan">#B2EBF2</color>
+    <color name="pale_coral">#FFC3A0</color>
+    <color name="super_pale_mint">#E0F7FA</color>
+    <color name="pale_violet">#FFE0F6</color>
+    <color name="soft_olive_green">#C5E1A5</color>
+    <color name="soft_creamy_yellow">#FFECB3</color>
+    <color name="soft_lavender_purple">#B39DDB</color>
+    <color name="soft_rose">#F8BBD0</color>
+    <color name="soft_purple">#D1C4E9</color>
+    <color name="soft_yellow_green">#F4FF81</color>
+    <color name="lighter_cyan">#80DEEA</color>
+    <color name="soft_orange_yellow">#FFE57F</color>
+    <color name="soft_lilac">#B388EB</color>
+</resources>
